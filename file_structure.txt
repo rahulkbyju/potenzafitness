@@ -1,0 +1,18 @@
+├── index.html              # Homepage of your blog
+├── about.html              # An About page (optional)
+├── contact.html            # A contact page (optional)
+│
+├── posts/                  # Folder for individual blog posts
+│   ├── post1.html
+│   ├── post2.html
+│   └── ...
+│
+├── assets/                 # Static assets (CSS, JS, images, etc.)
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── script.js
+│   └── images/
+│       └── blog-image.jpg
+│
+└── CNAME                   # Optional: Custom domain config
